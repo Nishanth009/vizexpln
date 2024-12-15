@@ -29,7 +29,7 @@ from vizexpln.UI import VizUI
 # Load a Pandas DataFrame from a CSV file
 df = pd.read_csv("abc.csv")
 
-# Create an instance of the AnalysisUI class
+# Create an instance of the VizUI class
 ui = VizUI(df)
 
 # Show the user interface

@@ -1,0 +1,18 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+tmp.png
+
+#ignore all .idea files
+.idea/
+
+#ignore ipynb checkpoints
+./examples/.ipynb_checkpoints
+
+#ignore __pycache__
+__pycache__
+
+#.env
+.env

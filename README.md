@@ -45,4 +45,4 @@ ui.show()
 ![scatter.png](images/scatter.png)
 #### Pie chart
 ![pie.png](images/pie.png)
-#### And many more for univariate and multivariate analysis
+#### And many more for univariate and multivariate analysis - don't spend time on writing code for plots

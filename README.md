@@ -49,6 +49,8 @@ ui.show()
 
 #### AI generated Insights/Explanation using Gemini
 Use Gemini multi-model capability to assist in EDA. The report provides a comprehensive analysis of plot and also provides suggestions </br>
-![ai_report.png](images/ai_report.png)
+</br>
+</br>
+![ai_report.png](images/ai_report_.png)
 
 

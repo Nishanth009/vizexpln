@@ -35,3 +35,14 @@ ui = VizUI(df)
 # Show the user interface
 ui.show()
 ```
+### Demo
+
+#### Histogram
+![hist.png](images/hist.png)
+#### Box plot
+![box.png](images/box.png)
+#### Scatter plot (setting view)
+![scatter.png](images/scatter.png)
+#### Pie chart
+![pie.png](images/pie.png)
+#### And many more for univariate and multivariate analysis

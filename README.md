@@ -45,8 +45,9 @@ ui.show()
 ![scatter.png](images/scatter.png)
 #### Pie chart
 ![pie.png](images/pie.png)
-#### And many more for univariate and multivariate analysis - don't spend time on writing code for plots
-
+</br>
+And many more for univariate and multivariate analysis - don't spend time on writing code for plots
+</br>
 #### AI generated Insights/Explanation using Gemini
 Use Gemini multi-model capability to assist in EDA. The report provides a comprehensive analysis of plot and also provides suggestions </br>
 </br>
